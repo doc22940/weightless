@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>util</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="util" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="download">
-            <g id="XMLID_111_" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M4,0 L4,16 L20,16 L20,0 L4,0 Z M18,14 L6,14 L6,2 L18,2 L18,14 Z" id="XMLID_128_"></path>
-                <polygon id="XMLID_176_" points="2 2 0 2 0 20 18 20 18 18 2 18"></polygon>
-            </g>
-            <rect id="XMLID_113_" x="0" y="0" width="24" height="24"></rect>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24"><title>util</title><desc>Created with Sketch.</desc><g id="util" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="download"><g id="XMLID_111_" fill="#000" fill-rule="nonzero" transform="translate(2.000000, 2.000000)"><path id="XMLID_128_" d="M4,0 L4,16 L20,16 L20,0 L4,0 Z M18,14 L6,14 L6,2 L18,2 L18,14 Z"/><polygon id="XMLID_176_" points="2 2 0 2 0 20 18 20 18 18 2 18"/></g><rect id="XMLID_113_" width="24" height="24" x="0" y="0"/></g></g></svg>
